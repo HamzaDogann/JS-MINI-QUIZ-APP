@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Ay'ın yüzeyini incelemek amacıyla gönderilen ilk insanlı uzay aracı hangisidir?",
+        "answer": [
+            { "text": "Apollo 11", "correct": true },
+            { "text": "Apollo 13", "correct": false },
+            { "text": "Sputnik 1", "correct": false },
+            { "text": "Voyager 1", "correct": false }
+        ]
+    },
+    {
+        "question": "Türkiye'nin en yüksek dağı olan ve Van Gölü'nün kıyısında bulunan dağın adı nedir?",
+        "answer": [
+            { "text": "K2", "correct": false },
+            { "text": "Ağrı Dağı", "correct": true },
+            { "text": "Mont Blanc", "correct": false },
+            { "text": "Himalaya", "correct": false }
+        ]
+    },
+    {
+        "question": "Hangi gezegen Güneş Sistemi'nde 'Kırmızı Gezegen' olarak da bilinir?",
+        "answer": [
+            { "text": "Venüs", "correct": false },
+            { "text": "Jüpiter", "correct": false },
+            { "text": "Mars", "correct": true },
+            { "text": "Satürn", "correct": false }
+        ]
+    },
+    {
+        "question": "UNESCO Dünya Mirası Listesi'nde yer alan Kapadokya'nın bulunduğu il hangisidir?",
+        "answer": [
+            { "text": "Ankara", "correct": false },
+            { "text": "Kayseri", "correct": false },
+            { "text": "Nevşehir", "correct": true },
+            { "text": "Konya", "correct": false }
+        ]
+    },
+    {
+        "question": "Hangi ülke, dünyanın en büyük beş okyanusundan biri olan Büyük Okyanus'a kıyısı bulunmaz?",
+        "answer": [
+            { "text": "Rusya", "correct": true },
+            { "text": "Kanada", "correct": false },
+            { "text": "Çin", "correct": false },
+            { "text": "Avustralya", "correct": false }
+        ]
+    },
+    {
+        "question": "Türkiye'nin başkenti neresidir?",
+        "answer": [
+            { "text": "İstanbul", "correct": false },
+            { "text": "İzmir", "correct": false },
+            { "text": "Ankara", "correct": true },
+            { "text": "Antalya", "correct": false }
+        ]
+    },
+    {
+        "question": "Dünya üzerinde kaç kıta bulunmaktadır?",
+        "answer": [
+            { "text": "5", "correct": false },
+            { "text": "6", "correct": false },
+            { "text": "7", "correct": true },
+            { "text": "8", "correct": false }
+        ]
+    },
+    {
+        "question": "Hangi savaş 'Üç İmparatorluk Savaşı' olarak da bilinir?",
+        "answer": [
+            { "text": "I. Dünya Savaşı", "correct": false },
+            { "text": "Yedi Yıl Savaşı", "correct": false },
+            { "text": "Kırım Savaşı", "correct": false },
+            { "text": "I. Balkan Savaşı", "correct": true }
+        ]
+    },
+    {
+        "question": "Türkiye'nin en büyük gölü hangisidir?",
+        "answer": [
+            { "text": "Van Gölü", "correct": true },
+            { "text": "Beyşehir Gölü", "correct": false },
+            { "text": "Tuz Gölü", "correct": false },
+            { "text": "Gölcük Gölü", "correct": false }
+        ]
+    },
+    {
+        "question": "Hangi ülke, Ay'a insan ayak basan ilk ülke olarak tarihe geçti?",
+        "answer": [
+            { "text": "Rusya", "correct": false },
+            { "text": "Çin", "correct": false },
+            { "text": "ABD", "correct": true },
+            { "text": "Hindistan", "correct": false }
+        ]
+    },
+    {
+        "question": "Dünya üzerindeki en uzun nehri hangisidir?",
+        "answer": [
+            { "text": "Nil Nehri", "correct": true },
+            { "text": "Amazon Nehri", "correct": false },
+            { "text": "Mississippi Nehri", "correct": false },
+            { "text": "Yangtze Nehri", "correct": false }
+        ]
+    },
+    {
+        "question": "İstanbul Boğazı'nın Karadeniz'e açıldığı noktada bulunan tarihi yapı hangisidir?",
+        "answer": [
+            { "text": "Anadolu Feneri", "correct": true },
+            { "text": "Rumeli Feneri", "correct": false },
+            { "text": "Maiden's Tower", "correct": false },
+            { "text": "Topkapı Sarayı", "correct": false }
+        ]
+    },
+    {
+        "question": "Göbeklitepe, insanlık tarihinin en eski tapınak kompleksi olarak kabul edilen bir arkeolojik alanın bulunduğu ülke hangisidir?",
+        "answer": [
+            { "text": "Mısır", "correct": false },
+            { "text": "Suriye", "correct": false },
+            { "text": "Türkiye", "correct": true },
+            { "text": "Yunanistan", "correct": false }
+        ]
+    },
+    {
+        "question": "Hangi gezegen \"Akşam Yıldızı\" olarak da bilinir?",
+        "answer": [
+            { "text": "Merkür", "correct": false },
+            { "text": "Venüs", "correct": true },
+            { "text": "Mars", "correct": false },
+            { "text": "Jüpiter", "correct": false }
+        ]
+    },
+    {
+        "question": "Türkiye'nin en büyük akarsuyu olan ve Karadeniz'e dökülen nehrin adı nedir?",
+        "answer": [
+            { "text": "Sakarya Nehri", "correct": false },
+            { "text": "Kızılırmak Nehri", "correct": true },
+            { "text": "Yeşilırmak Nehri", "correct": false },
+            { "text": "Fırat Nehri", "correct": false }
+        ]
+    }
+]
